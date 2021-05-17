@@ -1,6 +1,6 @@
 👋 Hi, I’m Victor Stepanov
 
-🌅 I’m 30 years old JavaScript developer
+🌅 I’m 31 years old JavaScript developer
 
 🌍 I live in Russia, Samara city
 
